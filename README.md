@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi there, I'm Chinthana!
 3rd Year Computer Science (Data Science)Student<br>Currently exploring Web Development<br>Passionate about Data Science, AI, and building useful projects<br>Learning something new every day
 
 
