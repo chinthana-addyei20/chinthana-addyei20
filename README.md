@@ -4,7 +4,7 @@ I am a final-year Computer Science (Data Science) student graduating in 2027 wit
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chinthana-a0a5780290) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chinthuaddyei2023@gmail.com) 
 
-# 💻 Tech Stack:
+
 # 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
